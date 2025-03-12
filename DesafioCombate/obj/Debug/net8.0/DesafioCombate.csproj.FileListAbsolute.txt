@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\C# Nelio\DesafioCombate\DesafioCombate\bin\Debug\net8.0\DesafioCombate.exe
+C:\Users\ASUS\Documents\C# Nelio\DesafioCombate\DesafioCombate\bin\Debug\net8.0\DesafioCombate.deps.json
+C:\Users\ASUS\Documents\C# Nelio\DesafioCombate\DesafioCombate\bin\Debug\net8.0\DesafioCombate.runtimeconfig.json
+C:\Users\ASUS\Documents\C# Nelio\DesafioCombate\DesafioCombate\bin\Debug\net8.0\DesafioCombate.dll
+C:\Users\ASUS\Documents\C# Nelio\DesafioCombate\DesafioCombate\bin\Debug\net8.0\DesafioCombate.pdb
+C:\Users\ASUS\Documents\C# Nelio\DesafioCombate\DesafioCombate\obj\Debug\net8.0\DesafioCombate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\C# Nelio\DesafioCombate\DesafioCombate\obj\Debug\net8.0\DesafioCombate.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\C# Nelio\DesafioCombate\DesafioCombate\obj\Debug\net8.0\DesafioCombate.AssemblyInfo.cs
+C:\Users\ASUS\Documents\C# Nelio\DesafioCombate\DesafioCombate\obj\Debug\net8.0\DesafioCombate.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\C# Nelio\DesafioCombate\DesafioCombate\obj\Debug\net8.0\DesafioCombate.dll
+C:\Users\ASUS\Documents\C# Nelio\DesafioCombate\DesafioCombate\obj\Debug\net8.0\refint\DesafioCombate.dll
+C:\Users\ASUS\Documents\C# Nelio\DesafioCombate\DesafioCombate\obj\Debug\net8.0\DesafioCombate.pdb
+C:\Users\ASUS\Documents\C# Nelio\DesafioCombate\DesafioCombate\obj\Debug\net8.0\DesafioCombate.genruntimeconfig.cache
+C:\Users\ASUS\Documents\C# Nelio\DesafioCombate\DesafioCombate\obj\Debug\net8.0\ref\DesafioCombate.dll
