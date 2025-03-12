@@ -46,12 +46,11 @@ namespace DesafioCombate
                 champTwo.TakeDamage(champOne);
                 Console.WriteLine(champOne.Status());
                 Console.WriteLine(champTwo.Status());
+                Console.WriteLine();
 
                 if(champOne.Life == 0 || champTwo.Life == 0){
-                    Console.WriteLine();
                     break;
                 }
-                Console.WriteLine();
             }
 
             Console.WriteLine("FIM DO COMBATE");
